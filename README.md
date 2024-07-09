@@ -36,7 +36,9 @@ npm install
 Create a `.env` file in the root directory and add the necessary environment variables.
 
 PORT= 8080
+
 DB_CONNECTION_STRING= "mongodb+srv://HACKATHONEVENTMANAGEMENT:HACKATHONEVENTMANAGEMENT@cluster0.yjcaoze.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+
 PRIVATE_KEY= HACKATHONEVENTMANAGEMENT
 
 4. Start the application:
@@ -62,8 +64,8 @@ Organizer
   
 Technologies Used
 
-Frontend: HTML, CSS, JavaScript, React, Bootstrap
-Backend: Node.js, Express
-Database: MongoDB
-Authentication: JWT (JSON Web Tokens)
+- Frontend: HTML, CSS, JavaScript, React, Bootstrap
+- Backend: Node.js, Express
+- Database: MongoDB
+- Authentication: JWT (JSON Web Tokens)
 
