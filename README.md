@@ -35,11 +35,9 @@ npm install
 3. Set up environment variables:
 Create a `.env` file in the root directory and add the necessary environment variables.
 
-BackEnd PORT= 8080
-
-DB_CONNECTION_STRING= "mongodb+srv://HACKATHONEVENTMANAGEMENT:HACKATHONEVENTMANAGEMENT@cluster0.yjcaoze.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-
-PRIVATE_KEY= HACKATHONEVENTMANAGEMENT
+- BackEnd PORT= 8080
+- DB_CONNECTION_STRING: "mongodb+srv://HACKATHONEVENTMANAGEMENT:HACKATHONEVENTMANAGEMENT@cluster0.yjcaoze.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+- PRIVATE_KEY: HACKATHONEVENTMANAGEMENT
 
 4. Start the application:
 npm run dev
