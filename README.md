@@ -42,6 +42,8 @@ Create a `.env` file in the root directory and add the necessary environment var
 4. Start the application:
 npm run dev
 
+The application will be available at `http://localhost:5173`.
+
 Usage
 
 Participant
